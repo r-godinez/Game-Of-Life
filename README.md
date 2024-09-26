@@ -1,4 +1,4 @@
-# # Conway's Game of Life - Python Implementation
+# Conway's Game of Life - Python Implementation
 
 ## Overview
 
@@ -13,6 +13,7 @@ This program implements Conway's Game of Life using Python and Pygame, providing
 - Press the `R` key to create a random initial state.
 - Press the `F` key to increase the simulation speed.
 - Press the `S` key to decrease the simulation speed.
+- Press the `C` key to clear screen.
 - The game must be stopped to input commands.
 
 ## Requirements
