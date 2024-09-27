@@ -44,7 +44,7 @@ pip install pygame
 2. **Navigate to the Project Directory:**
    Open your terminal or command prompt and navigate to the directory where the project files are located:
    ```bash
-   cd path/to/main
+   cd path/to/main.py
    ```
 
 3. **Run the Program:**
