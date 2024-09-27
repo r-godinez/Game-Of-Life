@@ -14,8 +14,8 @@ This program implements Conway's Game of Life using Python and Pygame, providing
 - Press the `F` key to increase the simulation speed.
 - Press the `S` key to decrease the simulation speed.
 - Press the `C` key to clear screen.
-- The game must be stopped to input commands.
-
+- The game must be **stopped** to input commands.
+s
 ## Requirements
 
 To run this program, you need to have Python and Pygame installed. 
@@ -60,6 +60,8 @@ pip install pygame
 - **R**: Create a random initial state.
 - **F**: Increase the speed of the simulation.
 - **S**: Decrease the speed of the simulation.
+- **C**: Restart Simulation.
+- The game must be **stopped** to input commands.
 
 ## License
 
